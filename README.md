@@ -38,7 +38,7 @@ GitHub Pilot status: *testing*
 <a name="philips-organizations"></a>
 ## Philips Organizations
 
-| Organization      | Type         | Typical projects               | Repository visibilit | Rules  |
+| Organization      | Type         | Typical projects               | Repository visibility | Rules  |
 |-------------------|--------------|--------------------------------|----------------------|--------|
 | [philips-software](https://github.com/philips-software) | Open Source  | Mature projects                | Public               | [here](https://github.com/philips-software/philips-howto-open-source) |
 | [philips-labs](https://github.com/philips-labs)      | Open Source  | Hackathons, demos, development | Public               | [here](https://github.com/philips-labs/about-this-organization) |
