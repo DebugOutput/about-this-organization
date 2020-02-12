@@ -22,3 +22,11 @@ This repository is public, so people who want to join the Pilot can find it. The
 ## Status
 
 GitHub Pilot status: *testing*
+
+## Philips Organizations
+
+| Organization      | Type         | Typical projects               | Repository visibilit | Rules  |
+|-------------------|--------------|--------------------------------|----------------------|--------|
+| [philips-software](https://github.com/philips-software) | Open Source  | Mature projects                | Public               | [here](https://github.com/philips-software/philips-howto-open-source) |
+| [philips-labs](https://github.com/philips-labs)      | Open Source  | Hackathons, demos, development | Public               | [here](https://github.com/philips-labs/about-this-organization) |
+| [philips-internal](https://github.com/philips-internal)  | Inner Source | All other projects             | Internal / Private   | [here](https://github.com/philips-internal/about-this-organization) |
