@@ -42,6 +42,7 @@ GitHub Pilot status: *testing*
 |-------------------|--------------|--------------------------------|----------------------|--------|
 | [philips-software](https://github.com/philips-software) | Open Source  | Mature projects                | Public               | [here](https://github.com/philips-software/philips-howto-open-source) |
 | [philips-labs](https://github.com/philips-labs)      | Open Source  | Hackathons, demos, development | Public               | [here](https://github.com/philips-labs/about-this-organization) |
+| [philips-forks](https://github.com/philips-forks)      | Open Source  | Forks of existing projects | Public               | [here](https://github.com/philips-forks/about-this-organization) |
 | [philips-internal](https://github.com/philips-internal)  | Inner Source | All other projects             | Internal / Private   | [here](https://github.com/philips-internal/about-this-organization) |
 
 <a name="contact"></a>
