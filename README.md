@@ -3,8 +3,6 @@
 # Philips - Internal
 
 1. [Purpose](#purpose)
-1. [Who should use this?](#who)
-1. [Can I join?](#join)
 1. [But this is public?](#public)
 1. [Status pilot](#status)
 1. [Philips Organizations](#philips-organizations)
@@ -15,25 +13,16 @@
 
 This organization will be used for Philips Internal repositories.
 
-<a name="who"></a>
-## Who should use this?
-
-Currently we're running a GitHub Pilot to see how we can use GitHub for our code repositories within Philips.
-
-<a name="join"></a>
-## Can I join this Pilot?
-
-Although it's still a pilot, we definitively want more people to join.
-Send an email to: @jeroenknoops with some short motivation and we will add you.
+Since April 2020, GitHub is officially availiable for all developers in Philips.
 
 <a name="public"></a>
 ## Why is this repo public?
 
-This repository is public, so people who want to join the Pilot can find it. The rest of the repositories will be either: *Internal* or *Private*
+This repository is public, so Philips employees who want to join can find it. The rest of the repositories will be either: *Internal* or *Private*
 
 <a name="status"></a>
 ## Status
-GitHub Pilot status: *testing*
+GitHub Pilot status: *success*
 
 <a name="philips-organizations"></a>
 ## Philips Organizations
@@ -47,4 +36,4 @@ GitHub Pilot status: *testing*
 
 <a name="contact"></a>
 ## Contact
-Contact @jeroenknoops for more information
+Contact @jeroenknoops or @bartgolsteijn for more information
