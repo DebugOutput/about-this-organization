@@ -13,7 +13,10 @@
 
 This organization will be used for Philips Internal repositories.
 
-Since April 2020, GitHub is officially availiable for all developers in Philips.
+Since April 2020, GitHub is officially available for all developers in Philips.
+
+In case you do not yet have access, please reach out to @jeroenknoops or @bartgolsteijn with your GitHub handle.<br>
+We are working on a self-service portal, if you want to help: https://github.com/philips-internal/crocs
 
 <a name="public"></a>
 ## Why is this repo public?
