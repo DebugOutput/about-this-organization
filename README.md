@@ -39,4 +39,4 @@ GitHub Pilot status: *success*
 
 <a name="contact"></a>
 ## Contact
-Contact @jeroenknoops or @bartgolsteijn for more information
+Contact @jeroenknoops, @bartgolsteijn or @niekpalm for more information
