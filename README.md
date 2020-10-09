@@ -29,7 +29,7 @@ GitHub Pilot status: *success*
 
 <a name="guidance"></a>
 ## Guidance
-Find some [guidance](https://github.com/philips-internal/guidance). Not this is only available for people with innersource access.
+Find some [guidance](https://github.com/philips-internal/guidance). Note this is only available for people with innersource access.
 
 <a name="philips-organizations"></a>
 ## Philips Organizations
