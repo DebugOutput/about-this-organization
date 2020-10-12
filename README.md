@@ -5,6 +5,7 @@
 1. [Purpose](#purpose)
 1. [But this is public?](#public)
 1. [Status pilot](#status)
+1. [Guidance](#guidance)
 1. [Philips Organizations](#philips-organizations)
 1. [Contact](#contact)
 
@@ -16,7 +17,6 @@ This organization will be used for Philips Internal repositories.
 Since April 2020, GitHub is officially available for all developers in Philips.
 
 In case you do not yet have access, please reach out to @jeroenknoops or @bartgolsteijn with your GitHub handle.<br>
-We are working on a self-service portal, if you want to help: https://github.com/philips-internal/crocs
 
 <a name="public"></a>
 ## Why is this repo public?
@@ -26,6 +26,10 @@ This repository is public, so Philips employees who want to join can find it. Th
 <a name="status"></a>
 ## Status
 GitHub Pilot status: *success*
+
+<a name="guidance"></a>
+## Guidance
+Find some [guidance](https://github.com/philips-internal/guidance). Note this is only available for people with innersource access.
 
 <a name="philips-organizations"></a>
 ## Philips Organizations
